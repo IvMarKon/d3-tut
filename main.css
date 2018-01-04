@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.container>svg{
+    background-color: rgb(209, 209, 209);
+}
+.bar{
+    /* fill: rgb(68, 197, 107); */
+    border: 1px solid grey;
+}
+.bar:last-child{
+    /* margin-right: 0; */
+}
